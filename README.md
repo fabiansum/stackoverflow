@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="StackOverflow Logo"">
+</div>
 
 ### Table of Contents
 
